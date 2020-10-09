@@ -1,4 +1,4 @@
-# Python homework submission:
+# Python-challenge
 This is my repository link for HW3 Python material.
 PyBank: This code successfully addresses the task of analyzing the financial records of my company.
 PyPoll: This code allows me to successfully help a small, rural town modernize its vote counting process.
